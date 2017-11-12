@@ -19,15 +19,17 @@
   },
   "homepage": "https://github.com/sola-travel/sola#readme",
   "dependencies": {
-    "express": "^4.16.2",
-    "webpack": "^3.8.1",
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
     "babel-preset-latest": "^6.24.1",
     "babel-preset-react": "^6.24.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
-    "react-router": "^4.2.0"
+    "react-router": "^4.2.0",
+    "webpack": "^3.8.1"
   },
   "devDependencies": {
     "nodemon": "^1.12.1"
